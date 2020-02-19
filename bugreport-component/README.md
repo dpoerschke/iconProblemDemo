@@ -7,3 +7,9 @@ It was created to show current issues in direflow when usig semantic ui for reac
 ```html
 <bugreport-component></bugreport-component>
 ```
+
+Run project with:
+> npm start
+
+Screenshot:
+![Screenshot](https://raw.githubusercontent.com/dpoerschke/iconProblemDemo/master/bugreport-component/screenshot.png)
